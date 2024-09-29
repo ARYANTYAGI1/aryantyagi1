@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryantyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="aryantyagi1" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Go**
 
 - 📝 I regularly write articles on [https://medium.com/@thearyantyagi1](https://medium.com/@thearyantyagi1)
 
-- 💬 Ask me about **MERN, C/C++ , Python,Java,DSA**
+- 💬 Ask me about **Building full-stack applications with MERN and MEVN stacks, creating RESTful APIs and GraphQL APIs, optimizing backend performance, and handling real-time communication using Socket.io. I’m also happy to discuss Node.js, MongoDB, and integrating cloud services with AWS**
 
 - 📫 How to reach me **aryantyagi296@gmail.com**
 
-- ⚡ Fun fact **Financial whiz who channels the discipline of meditation into smart fiscal strategies**
+- ⚡ Fun fact **I’m always looking for ways to improve my workflow—whether it's finding new tools, optimizing my code, or learning the latest tech**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
